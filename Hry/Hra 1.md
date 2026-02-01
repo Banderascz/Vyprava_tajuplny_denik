@@ -24,4 +24,4 @@
 5. Dvojice splní úkol
 6. Mates jim dá kousek mapy
 7. Dvojice jde zpět do domečku, odevzdat kousek mapy, co získali od Matese
-8. Dvojice čeká na zbytek týmu, (buď po svačině nebo rovnou složí správně mapu)
+8. Dvojice čeká na zbytek týmu => (buď po svačině nebo rovnou složí správně mapu)
