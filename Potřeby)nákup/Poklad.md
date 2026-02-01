@@ -1,3 +1,2 @@
-Věci do pokladu
-
-- [ ] 
+## Věci do pokladu
+- [ ] neco

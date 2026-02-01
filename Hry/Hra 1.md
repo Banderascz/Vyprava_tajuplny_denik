@@ -1,3 +1,4 @@
+# Hra 1
 ### Princip
 1. Děti se rozdělí do dvojic
 2. Zavážou si nohy
