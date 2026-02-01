@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Deník.md",
+                "file": "Denní program.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deník"
+              "title": "Denní program"
             }
           }
         ]
@@ -177,14 +177,14 @@
   },
   "active": "d3084683577e3683",
   "lastOpenFiles": [
-    "Postavy/Příběh postav.md",
-    "Postavy/Charllote.md",
-    "Postavy/James.md",
     "Deník.md",
+    "Postavy/Příběh postav.md",
+    "Postavy/James.md",
+    "Postavy/Charllote.md",
+    "Hry/Hra 1.md",
     "Postavy",
     "Denní program.md",
     "README.md",
-    "Hry/Hra 1.md",
     "Bez názvu.base",
     "Hry",
     "create a link.md"
