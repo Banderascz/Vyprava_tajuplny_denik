@@ -11,14 +11,12 @@
             "id": "b467b0bff36ded23",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Hry/Hra 2.md",
-                "mode": "source",
-                "source": false
+                "file": "Postavy/Dopisy/export2_Charllote_template.png"
               },
-              "icon": "lucide-file",
-              "title": "Hra 2"
+              "icon": "lucide-image",
+              "title": "export2_Charllote_template"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hry/Hra 2.md",
+                "file": "Postavy/Dopisy/export2_Charllote_template.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Zpětné odkazy pro Hra 2"
+              "title": "Zpětné odkazy pro export2_Charllote_template"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hry/Hra 2.md",
+                "file": "Postavy/Dopisy/export2_Charllote_template.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Odchozí odkazy z Hra 2"
+              "title": "Odchozí odkazy z export2_Charllote_template"
             }
           },
           {
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hry/Hra 2.md",
+                "file": "Postavy/Dopisy/export2_Charllote_template.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Přehled Hra 2"
+              "title": "Přehled export2_Charllote_template"
             }
           }
         ]
@@ -174,13 +172,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1ef1c292d9149adb",
+  "active": "b467b0bff36ded23",
   "lastOpenFiles": [
     "assety/Stickman.png",
-    "assety",
     "Hry/Hra 1.md",
-    "Hry/Hra 3.md",
     "Hry/Hra 2.md",
+    "assety",
+    "Hry/Hra 3.md",
     "Postavy/Dopisy/export2_Charllote_template.png",
     "Potřeby)nákup/Nákup.md",
     "Hry/Večerní program neděle.md",
