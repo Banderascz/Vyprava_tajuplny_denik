@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hry/Večerní program neděle.md",
+                "file": "Hry/Hra 2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Večerní program neděle"
+              "title": "Hra 2"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "Hry/Hra 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Zpětné odkazy pro Welcome"
+              "title": "Zpětné odkazy pro Hra 2"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "Hry/Hra 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Odchozí odkazy z Welcome"
+              "title": "Odchozí odkazy z Hra 2"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md",
+                "file": "Hry/Hra 2.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Přehled Welcome"
+              "title": "Přehled Hra 2"
             }
           }
         ]
@@ -176,20 +176,20 @@
   },
   "active": "b467b0bff36ded23",
   "lastOpenFiles": [
-    "Hry/Hra 2.md",
-    "Hry/Večerní program neděle.md",
-    "Postavy/Příběh postav.md",
-    "Postavy/Dopisy/export_Charllote_template.png",
     "Hry/Hra 1.md",
+    "Hry/Hra 2.md",
+    "Postavy/Dopisy/export_Charllote_template.png",
+    "Hry/Večerní program neděle.md",
+    "Postavy/James.md",
     "Postavy/Charllote.md",
-    "Postavy/Dopisy",
-    "Postavy/Nová složka",
-    "Bez názvu.base",
+    "Postavy/Příběh postav.md",
     "Denní program.md",
     "README.md",
     "Deník.md",
     "Potřeby)nákup/Poklad.md",
-    "Postavy/James.md",
+    "Postavy/Dopisy",
+    "Postavy/Nová složka",
+    "Bez názvu.base",
     "Hry/Hra 5.md",
     "Hry/Hra 4.md",
     "Hry/Hra 3.md",
