@@ -1,4 +1,4 @@
-# Hra 5
+# Poklad
 "dodělat"  splněním úkolu, děti získají klíč nebo kód od zámku
 
 
