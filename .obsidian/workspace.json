@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "8ea5d24edea23ee2",
+        "id": "e1ee553966c2bf37",
         "type": "tabs",
         "children": [
           {
-            "id": "b467b0bff36ded23",
+            "id": "9bb50d7fc0b6830b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Postavy/Dopisy/export2_Charllote_template.png"
+                "file": "Hry/Hra 2.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "export2_Charllote_template"
+              "icon": "lucide-file",
+              "title": "Hra 2"
             }
           }
         ]
@@ -92,7 +94,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Postavy/Dopisy/export2_Charllote_template.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Zpětné odkazy pro export2_Charllote_template"
+              "title": "Zpětné odkazy"
             }
           },
           {
@@ -111,12 +112,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Postavy/Dopisy/export2_Charllote_template.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Odchozí odkazy z export2_Charllote_template"
+              "title": "Odchozí odkazy"
             }
           },
           {
@@ -140,13 +140,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Postavy/Dopisy/export2_Charllote_template.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Přehled export2_Charllote_template"
+              "title": "Přehled"
             }
           }
         ]
@@ -172,20 +171,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b467b0bff36ded23",
+  "active": "9bb50d7fc0b6830b",
   "lastOpenFiles": [
+    "Postavy/Dopisy/export2_Charllote_template.png",
+    "Hry/Hra 2.md",
+    "Postavy/Charllote.md",
     "assety/Stickman.png",
     "Hry/Hra 1.md",
-    "Hry/Hra 2.md",
     "assety",
     "Hry/Hra 3.md",
-    "Postavy/Dopisy/export2_Charllote_template.png",
     "Potřeby)nákup/Nákup.md",
     "Hry/Večerní program neděle.md",
     "Hry/Hra 5.md",
     "Postavy/Dopisy/export_Charllote_template.png",
     "Postavy/James.md",
-    "Postavy/Charllote.md",
     "Postavy/Příběh postav.md",
     "Denní program.md",
     "README.md",
