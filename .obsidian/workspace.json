@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hry/Menší výplňové hry.md",
+                "file": "Denní program.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Menší výplňové hry"
+              "title": "Denní program"
             }
           }
         ]
@@ -173,6 +173,8 @@
   },
   "active": "a48fb2eac699a9b8",
   "lastOpenFiles": [
+    "Deník.md",
+    "Hry/Menší výplňové hry.md",
     "Hry/Hra 2.md",
     "Hry/Hra 4.md",
     "Hry/Hra 5.md",
@@ -181,7 +183,6 @@
     "Potřeby)nákup/Nákup.md",
     "Potřeby)nákup/Poklad.md",
     "assety/Hra 4",
-    "Hry/Menší výplňové hry.md",
     "Hry/Hra 1.md",
     "Hry/Večerní program neděle.md",
     "assety/Stickman.png",
@@ -193,7 +194,6 @@
     "Postavy/Příběh postav.md",
     "Denní program.md",
     "README.md",
-    "Deník.md",
     "Postavy/Dopisy",
     "Postavy/Nová složka",
     "Bez názvu.base",
