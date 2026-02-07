@@ -2,7 +2,7 @@
 - [ ] 17:00 = příjezd účastníků k obchodu ve Dvorcích
 - [ ] 17:25-18:30 = ubytování (nutno počítat i s možností dřívějšího startu)
 - [ ] 18:30-19:00 = "rozdělení do týmů", provozní info
-- [ ] 19:00-20:00 = [[Večerní program neděle]]
+- [ ] 19:00-20:00 = [[Večerní program pátek]]
 - [ ] 21:45-22:00+ = příprava na večerku + večerka
 
 ---
