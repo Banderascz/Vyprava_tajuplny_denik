@@ -1,2 +1,4 @@
 # Hra 3
-"Kahoot"
+
+## Princip
+1. Děti půjdou po trase a dělají kvíz
