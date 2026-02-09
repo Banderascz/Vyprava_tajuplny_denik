@@ -13,10 +13,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Postavy/Dopisy/po_hra_3.png"
+                "file": "assety/01_ascii.png"
               },
               "icon": "lucide-image",
-              "title": "po_hra_3"
+              "title": "01_ascii"
             }
           }
         ]
@@ -171,17 +171,17 @@
   },
   "active": "d20a35b146313e9a",
   "lastOpenFiles": [
+    "assety/Morse-Code-Key-1366-0720.webp",
+    "Postavy/Dopisy/po_hra_3.png",
     "Postavy/Dopisy/po_hra_4 heslo denik.png",
     "Postavy/Dopisy/po_hra_4_last.png",
     "Postavy/Dopisy/sifra_po_hra_3 ascii.png",
-    "Postavy/Dopisy/po_hra_3.png",
     "assety/01_ascii.png",
     "Postavy/Dopisy/po_hra_2.png",
     "Postavy/Dopisy/po_hra_1.png",
     "Postavy/Dopisy/patek.png",
     "Postavy/Dopisy/sifra_po_hra_2 cesar +5.png",
     "Postavy/Dopisy/sifra_po_hra_1 reverse alphabet.png",
-    "assety/Morse-Code-Key-1366-0720.webp",
     "Hry/Hra 2.md",
     "Hry/Hra 3.md",
     "Hry/Hra 4.md",
