@@ -2,5 +2,5 @@
 ### Princip
 1. Rukodělka podle dopisu
 
-
+Meli hra
 Todo: domyslet
